@@ -1,5 +1,16 @@
 package org.work;
 
-public class NewWork {
+import org.junit.Test;
 
-}
+public class NewWork {
+	
+	@Test
+	private void test1() {
+		System.out.println("Name:Vignesh");
+		System.out.println("Age: 28yrs");
+
+	}
+
+	}
+
+
